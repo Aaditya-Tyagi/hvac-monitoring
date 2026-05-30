@@ -1,0 +1,188 @@
+%-------------------------
+% Resume in Latex
+% Author : Aaditya Tyagi
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeadingWithLink}[3]{
+  \item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \href{#1}{\textbf{#2}} & \textit{#3} \\
+  \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Aaditya Tyagi} \\ \vspace{1pt}
+    \small 6395418808 $|$ \href{mailto:aaditya9458@gmail.com}{\underline{aaditya9458@gmail.com}} $|$ 
+    Gurgaon, India $|$ 
+    \href{https://www.linkedin.com/in/aaditya-tyagi-7b4391193/}{\underline{linkedin.com/in/aaditya-tyagi}} $|$
+    \href{https://github.com/aaditya-tyagi}{\underline{github.com/aaditya-tyagi}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Vidya College of Engineering}{Meerut, India}
+      {B.Tech. in Information Technology}{June 2019 -- June 2023}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+  \resumeSubheading
+   {React Native Developer}{May 2023 -- Present} 
+   {Badho Pvt. Ltd.}{Gurgaon, India} 
+   \resumeItemListStart 
+   \resumeItem{Developed a module for uploading bills from user devices using React Native, Express.js, Amazon S3, and GraphQL, successfully uploading over \textbf{1+ lakh bills} to the platform and onboarding \textbf{4000+} new users.} 
+   \resumeItem{Implemented a media-sharing feature allowing marketing and content teams to post videos, images, and YouTube videos, all playable in-app. This boosted retention by \textbf{42}\%. Posts can be scheduled, targeted to specific users, and sorted for optimal engagement.}
+   \resumeItem{Developed a dynamic form component that is reusable throughout the app, supporting a variety of UI elements. Configuring fields, values, and labels is managed server-side, offering flexibility to the product team for quick updates.}
+   \resumeItem{Created a dynamic homepage where the layout and visibility of components are tailored to each user's profile. All components are controlled via server-based configurations, enabling personalized experiences for different user segments.}
+   \resumeItem{Spearheaded the development of the Badho Brand Dashboard, working closely with a small team to implement key features using Next.js, PostgreSQL, and Tailwind CSS. Managed end-to-end delivery from design to deployment, onboarding \textbf{40+} brands, and enabling media post scheduling, notifications, and user management.}
+   \resumeItemListEnd
+   
+    \resumeSubheading
+      {Front End Development Intern}{May 2022 -- Nov 2022}
+      {Appscms Technologies}{Noida, India}
+      \resumeItemListStart
+        \resumeItem{Developed front-end web applications using JavaScript libraries and deployed them via Netlify, improving deployment efficiency by \textbf{25}\%.}
+        \resumeItem{Designed and implemented a dynamic Avatar builder allowing users to create personalized 2D avatars, which increased user retention on the platform.}
+        \resumeItem{Built an online PaintJS application that enabled users
+        to access paint functionalities directly in the browser.}
+        
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+
+\resumeProjectHeadingWithLink
+  {https://play.google.com/store/apps/details?id=com.badhobuyer&hl=en_IN}
+  {Badho - B2B App For Retailers}
+  {React Native, GraphQL, Hasura, ExpressJs, AWS}
+\resumeItemListStart
+  \resumeItem{Developed the Badho B2B Buyer App, which facilitates seamless B2B transactions with over \textbf{200,000} downloads.}
+  \resumeItem{The app enables retailers to place orders with their distributors, receive scheme rewards from purchase orders, and more.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+  {\textbf{Badho B2B App for Distributors} $|$ \emph{React Native, GraphQL, Hasura, ExpressJs, AWS}}{2023 -- Present}
+  \resumeItemListStart
+    \resumeItem{Created the Badho B2B Seller App to streamline distributor operations, with over \textbf{10,000} downloads.}
+    \resumeItem{Implemented seller policies allowing sellers to adjust prices and set terms like delivery times based on user segments, enabling personalized offers for customers.}
+  \resumeItemListEnd
+
+\resumeProjectHeading
+  {\textbf{Badho - B2B Saathi App} $|$ \emph{React Native, GraphQL, Hasura, ExpressJs, AWS}}{2023 -- Present}
+  \resumeItemListStart
+    \resumeItem{Developed the Badho B2B Saathi App, which supports field operations with more than \textbf{500} downloads.}
+    \resumeItem{Integrated a geolocation feature allowing field staff to view maps of all associated users to optimize their daily routes.}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: JavaScript, TypeScript, HTML/CSS} \\
+     \textbf{Frameworks/Libraries}{: React Native, React.js, Node.js, Express.js, GraphQL, Ant Design, TailwindCSS} \\
+     \textbf{Databases}{: PostgreSQL,SQL} \\
+     \textbf{Tools}{: Git, Docker, Netlify, Visual Studio Code, Figma, Jira, Hasura GraphQL, Apollo Client} \\
+     \textbf{Cloud Services}{: AWS (S3, Lambda, EC2,SES), Azure}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}

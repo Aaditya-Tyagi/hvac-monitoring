@@ -1,0 +1,83 @@
+"item_id","SELLER_NAME","SIGNUP_DATE","IS_SUBSCRIBED","LOCATION","IS_VERIFIED"
+"",NULL,NULL,NULL,NULL,NULL
+"005a7c1d-1bf8-4617-b910-f40b8ecb6f73","Gaurav traders (Test)(Test)",1692359766,False,"Gurugram",False
+"0133b073-b1f4-47ab-bd1a-160b9d3df44d","Apple Co(Test)(Test)_TEST",1695049292,False,"Gurugram",False
+"0162991a-ccca-4077-9f2c-752b3ca736c6","Joshi Enterprises",1755863515,False,"Gurugram",False
+"017ea7f0-a88d-4d01-91c7-4bd0f773637d","Sushant Business Seller ",1756455468,False,"Gurugram",True
+"0334ac9d-92f1-49c1-a8f7-36f606cd8621","Aggarwal traders ",1715680594,False,"North West Delhi",False
+"0366be70-ef1d-4125-a57f-b4071d01a05b","swa by Kshitij test test test_TEST",1713596889,False,"Gurugram",False
+"0467836c-d9c1-4df1-9ab7-aff3f3999e2b","Vaishnavi Traders",1753442532,False,"West Delhi",False
+"08703127-2e7e-4a66-8a6c-5f2204122098","Pranjal badho account",1756539552,False,"Mirzapur",True
+"093a316f-3313-4363-b2e8-0ea5e5770602","ChukDe",1756990533,False,"North West Delhi",True
+"0b65d3c0-66fb-4146-83ec-6f1f90220327","Test",1762942061,False,"Gautam Buddha Nagar",True
+"0c8401a0-716a-49e4-a593-54f02c242596","MH Traders",1762774309,False,"Gurugram",True
+"0ead5201-4e0b-42c7-904d-e6ddf7cd79d9","Test",1762844600,False,"Gurugram",True
+"0f18aea4-b297-4d3c-9f6f-b3a11ae937f0","M/S SHWETA SALES CORPORATION (23-24)",1743010775,False,"South Delhi",True
+"20c5097c-be1e-4478-ac66-fd44044f3438","Abc",1762238239,False,"Gurugram",True
+"2326c0d2-3e5b-4984-b6e7-810adb488c78","Business test name",1760084821,False,"Gurugram",True
+"24313aba-98b8-47f7-aa73-e7cac0964a71","Puneet Test Business",1760667465,False,"Gurugram",True
+"24c81880-54bd-4f45-8515-da8adf650f45","Aadi test business_TEST",1736766089,False,"Ghaziabad",True
+"2537f38a-69cd-4d05-829f-c189c044a841","Grocery",1742971464,False,"Gurugram",False
+"2879467e-2b08-420c-823a-2b116e0c1e65","Farman Treders",1744182929,True,"Ghaziabad",True
+"2a2102f2-3926-4e1b-9b47-f5da33a00ead","test",1749633460,False,"Gautam Buddha Nagar",True
+"305bef56-f321-4690-8db5-ce8acfadef46","Puneet Test Distribution",1758080102,False,"Gurugram",True
+"31dbcb40-9b91-42eb-ad02-2d291334839e","AJ's PASTA",1714552726,False,"Nainital",False
+"35634173-5281-4e0b-940e-ce6322ef4cd6","Pranjal traders testing",1753437073,True,"Kamrup Metropolitan",True
+"360e3cc9-d522-47aa-9d73-9983bb264962","Test",1762847916,False,"Gautam Buddha Nagar",True
+"3a152dcc-bd84-42f4-89fb-6f278645849a","Test",1759771225,False,"Ghaziabad",False
+"3b3dd8d6-5ec6-4df2-a3f0-ef81c595a0bb","RAS SALES_TEST",1717677098,False,"Gurgaon",False
+"3b62b479-d750-4baa-ac5c-608eac3d9485","CARGILL DISTRIBUTOR (GURGAON)",1753875556,False,"Gurgaon",False
+"4073989c-c055-43db-9be3-59eb50c184ee","Mohan kirana store",1751219883,False,"South West Delhi",True
+"40f31fcb-26ba-4cc7-a0a4-8a444d137019","Test business",1723463521,True,"North West Delhi",False
+"4b47411c-f17e-4121-9b20-31f3b6f875eb","A K Trading",1743073859,False,"Central Delhi",False
+"4bb8722a-696e-411a-a352-a9ddf5183871","Gupta test",1717400506,False,"Gurugram",False
+"4c7ec182-bdf1-4540-8bc6-c27fdc1beae8","test",1761730558,False,"Gurugram",False
+"550d4f35-78ea-4a71-893a-64f8435ec92d","Sarthak Enterprises",1734503482,False,"South West Delhi",True
+"57e2d2fe-67a7-4457-a43f-e603fb8adbfa","Unicorn Distributors(Test)(Test)_TEST",1686036576,False,"Gurugram",False
+"5892d5e4-7994-4593-8dd4-3c9c30df0438","Goyal Traders_TEST",1717677502,False,"Gurgaon",False
+"5ca70f31-3b83-4a63-a721-c84c19b7e8bd","Pooja test",1760692321,False,"Gurugram",True
+"62620923-dd7b-4236-97e3-bf679dfe2bad","Aradhika traders",1748673994,True,"South East Delhi",True
+"6713c956-0106-46d4-ab57-c1e56b822e43","Gupta traders",1732096093,False,"Gurugram",False
+"67235f1e-13b5-447e-9fb4-72fb74433862","Gupta groceries",1757055645,False,"Gurugram",False
+"6b0e1b11-f7d1-4418-be4f-5128e732a958","TEsting Account 2",1759754858,False,"Gurugram",False
+"70c18c4c-1b41-42f3-aae0-35a8da3b10d1","Gupta",1745575283,False,"Gurugram",True
+"72ee7e4d-3e95-487e-9836-5e99ef65b1ce","Aditya test_TEST",1728461232,False,"Gurugram",False
+"732856fa-8dc6-41d8-8a5d-307ad7fb2291","Grocery_TEST",1729492954,False,"Gurugram",False
+"813dc971-9061-4585-b202-9f8f7cbe3fad","Chaizup",1714998186,False,"Kolkata",False
+"838aa615-f1c1-4052-9a87-16f16d73603c","GUPTA AGENCIES_TEST",1738917126,False,"Palwal",False
+"843906fb-27d7-4e88-b374-e442a6179a4c","Abhay General Store (Test)(Test)_TEST",1705565372,False,"Gurugram",False
+"8481291d-0cf2-4b15-85f7-0d34818d67ef","Kunal Test (Zoff)_TEST",1686730656,False,NULL,False
+"85d4c988-79fd-483c-b531-6d0b7acfb219","Anmol Spices",1718862814,False,"Kolkata",False
+"8e3cf90f-b86c-4243-8b43-de19f9215b21","Himanshu enterprises",1722927064,False,"Gurugram",True
+"91c44a53-ed42-4673-bb42-6a3ebfdc55ec","Aditya Test",1762883216,False,"Gurugram",True
+"932c47d6-5c8b-443f-afeb-28d80c036fbd","Rachita Traders Test",1762410343,False,"Gurugram",True
+"9d5b2aa2-89f3-46a4-b706-52a14798c1bc","test",1758719395,False,"Kamrup Metropolitan",True
+"9e9980c7-d573-4aae-a0f3-6c234c9e49ea","test1_TEST",1730472802,False,"Khargone",False
+"9eda5263-57f0-4d80-852f-21eecad3a1c4","bn_TEST",1734006439,False,"Gurugram",True
+"a12de949-4621-4369-b998-e9acc3273dab","Sahil Rohera Store",1728908302,True,"Central Delhi",True
+"a44be9ac-9248-4c44-b62f-ba3e42c137be","Himanshu Test_TEST",1728459912,False,"Gurugram",False
+"a8f9d3fe-e5e4-4471-8e5d-361baa8cdf2f","TEST",1759761895,False,"Khargone",False
+"abd6c2db-da2e-4bdc-81c1-2d1849deb6cc","TEST",1755517980,False,"Gurugram",False
+"b0a9b09c-402c-43c5-b1bd-b0255479a1d4","Testing_TEST",1735556132,False,"Gurugram",False
+"b37fc30e-39ba-4a33-84d5-e398f7a733df","Kirar kirana store(test)_TEST",1702882489,False,"Gurugram",False
+"b40dffc1-2217-4426-84fd-d223eaa1af77","Gyan test distributor",1704991664,False,"Gurugram",False
+"b424abe6-2e37-4258-9c8c-aba179ae95bd","test",1739522132,False,"South East Delhi",True
+"bb969df4-0b35-4472-9497-c1e8793ecd93","Pulkit Test",1762258117,False,"Gurugram",True
+"c1a206d0-de85-40d2-8fc8-83d96e84ba44","Test_TEST",1733378543,False,"Gurugram",False
+"c33b860f-07a5-46e2-962a-464c1a0e2e27",". T",1757053820,False,"Gurugram",True
+"c564c6bf-7737-40f4-a0cb-3319c8c8b95d","Test Kumar store_TEST",1717410628,False,"Gurugram",False
+"c5c4a374-1def-4045-8900-214695d265be","Test",1759732542,False,"Gurugram",False
+"c64261bf-f6eb-470c-84c9-446bfd6bb3d9","Alok Electronics_TEST",1719213838,False,"Gurugram",False
+"cbb6f7cc-8203-4a9c-8faa-b969b71e2743","Veeba Distributor _TEST",1708510009,False,"Gurugram",False
+"ce97acdf-e8e1-4bd2-ad26-2de7a88ce049","Khadi Care",1725357828,False,"Faridabad",True
+"cf5038c7-2ce4-487f-9a84-13d3b0e0ff19","Sk distributor test",1753316992,False,"Patna",True
+"d66b1026-9e09-4269-bff3-f3f57340cda0","Rathore shree enterprises _TEST",1703237138,False,NULL,False
+"d8d1775b-e4f6-474c-bfcd-b62dc7726802","Rishi traders_TEST",1727287928,False,"Gurugram",True
+"d933fb2c-f47a-436a-82ec-fc0dd88e8850","Rachita Traders",1761549730,False,"Gurugram",True
+"dade09e7-e7a5-43a2-a6bb-f25e2e54857d","Test this",1759934931,False,"Bengaluru Urban",False
+"de958ddb-4aff-4770-a1ec-f288ef1fbb41","Herbshi",1744623876,False,"Bengaluru Urban",True
+"e24e6e9d-df39-4ea4-a9eb-7e9c1a045028","Dhani Aadi vikreta_TEST",1693645955,False,"Bengaluru Urban",True
+"ea09ee24-5169-455d-acd8-4b545ce9d419","Mishra Test_TEST",1728467870,False,"Gurugram",False
+"f69124cd-b879-4ef3-a24e-96a338c34a61","Shahi Trendz",1726230520,False,"West Delhi",False
+"f7583075-f35e-4c72-993a-c305b7e117e9","Dholpur Fresh_TEST",1711525863,False,"Gurugram",False
+"f91558f2-906c-4fb2-af17-ed49352bb6a0","Abhay_Test",1752658379,False,"Gurugram",False
