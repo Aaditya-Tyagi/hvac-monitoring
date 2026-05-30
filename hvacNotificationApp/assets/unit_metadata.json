@@ -1,0 +1,42 @@
+[
+  {
+    "unitId": "HVAC_1",
+    "installDate": "2021-03-15",
+    "area": "production_floor",
+    "lastServiceDate": "2025-09-01",
+    "serviceIntervalDays": 90,
+    "nominalCapacity": 18
+  },
+  {
+    "unitId": "HVAC_2",
+    "installDate": "2024-06-01",
+    "area": "rooftop",
+    "lastServiceDate": "2025-10-15",
+    "serviceIntervalDays": 90,
+    "nominalCapacity": 22
+  },
+  {
+    "unitId": "HVAC_3",
+    "installDate": "2025-02-10",
+    "area": "cleanroom",
+    "lastServiceDate": "2025-11-20",
+    "serviceIntervalDays": 90,
+    "nominalCapacity": 14
+  },
+  {
+    "unitId": "HVAC_4",
+    "installDate": "2023-08-20",
+    "area": "warehouse",
+    "lastServiceDate": "2025-12-01",
+    "serviceIntervalDays": 90,
+    "nominalCapacity": 20
+  },
+  {
+    "unitId": "HVAC_5",
+    "installDate": "2024-11-05",
+    "area": "cleanroom",
+    "lastServiceDate": "2025-12-15",
+    "serviceIntervalDays": 90,
+    "nominalCapacity": 14
+  }
+]
