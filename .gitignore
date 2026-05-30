@@ -1,0 +1,7 @@
+# Build artifacts — never commit these (they exceed GitHub's 100MB limit)
+*.apk
+*.aab
+*.ipa
+
+# macOS
+.DS_Store
